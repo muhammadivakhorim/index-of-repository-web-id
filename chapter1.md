@@ -1,3 +1,3 @@
-# First Chapter
+# Job Listing
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Job Listing : membantu pencari pekerjaan untuk memperoleh sebuah pekerjaan sesuai skill dan kopetensi.
